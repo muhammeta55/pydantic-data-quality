@@ -1,0 +1,6 @@
+order_id,qty,amount,currency,ship_country,date,validation_errors
+ORD003,10,2500.0,USD,IN,12-25-23,1 error(s)
+ORD004,3,750.0,INR,US,12-25-23,1 error(s)
+,2,500.0,INR,IN,12-25-23,1 error(s)
+ORD006,-5,1000.0,INR,IN,12-25-23,1 error(s)
+ORD007,8,3200.0,INR,IN,2023-12-25,1 error(s)

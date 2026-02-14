@@ -1,0 +1,13 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store" > .gitignore

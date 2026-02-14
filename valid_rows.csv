@@ -1,0 +1,4 @@
+order_id,qty,amount,currency,ship_country,date
+ORD001,5,1500.5,INR,IN,12-25-23
+ORD002,0,0.0,INR,IN,01-15-24
+ORD008,15,5000.0,INR,IN,12-25-23
